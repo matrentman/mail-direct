@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context>
+    <Resource name="jdbc/admin" auth="Container" type="javax.sql.DataSource"
+               maxActive="50" maxIdle="30" maxWait="10000"
+               username="aquinas" password="1225aDrOcCaSeCcAiTaLy!"
+               driverClassName="org.postgresql.Driver"
+               url="jdbc:postgresql://admin.cratp0nk0qj4.us-east-1.rds.amazonaws.com:5432/administration"/>
+</Context>
